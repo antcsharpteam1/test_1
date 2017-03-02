@@ -1,0 +1,9 @@
+C:\Users\domnerb\Source\Repos\Coffee_Shop\Coffee_Shop\Coffee_Shop\bin\Debug\Coffee_Shop.exe.config
+C:\Users\domnerb\Source\Repos\Coffee_Shop\Coffee_Shop\Coffee_Shop\bin\Debug\Coffee_Shop.exe
+C:\Users\domnerb\Source\Repos\Coffee_Shop\Coffee_Shop\Coffee_Shop\bin\Debug\Coffee_Shop.pdb
+C:\Users\domnerb\Source\Repos\Coffee_Shop\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.csprojResolveAssemblyReference.cache
+C:\Users\domnerb\Source\Repos\Coffee_Shop\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+C:\Users\domnerb\Source\Repos\Coffee_Shop\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.csproj.GenerateResource.Cache
+C:\Users\domnerb\Source\Repos\Coffee_Shop\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.exe
+C:\Users\domnerb\Source\Repos\Coffee_Shop\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.pdb
+C:\Users\domnerb\Source\Repos\Coffee_Shop\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.Form1.resources
